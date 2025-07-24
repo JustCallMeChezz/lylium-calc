@@ -1,0 +1,14 @@
+{
+  "name": "Lylium Calc",
+  "short_name": "Calculator",
+  "icons": [
+    {
+      "src": "/icons/calc.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#e9dafe",
+  "background_color": "#e9dafe",
+  "display": "standalone"
+}
